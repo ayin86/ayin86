@@ -5,7 +5,7 @@ I am an IT practitioner with 14 years of experience. I started out as a UI desig
 
 The roles I hold at work include product manager, UI design, and front-end development. 
 
-My English reading and listening level is almost free, but my speaking and writing are not very fluent, and sometimes I can't express myself very well. I will work harder to improve my language skills. 
+My English reading and listening level is almost free, but my speaking and writing are not very fluent, sometimes I can't express myself very well. Trying to improve my English now.
 
 I developed a data visualization development framework-techui. Decoration components are all implemented using dynamic SVG (no images). Almost no one does such development. Because it requires a high degree of control over the code and design ability to do it. There are currently Vue2, Vue3, and React versions.
 
