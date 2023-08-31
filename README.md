@@ -27,7 +27,7 @@ I developed a data visualization development framework-techui. Decoration compon
 
 
 
-<img src="./WhatsApp.png" width="300" />
+<img src="./WhatsApp.png" width="200" />
 
 Or contact me via Telegram [@ayin86cn](https://t.me/ayin86cn)
 
