@@ -13,7 +13,7 @@ I developed a data visualization development framework-techui. Decoration compon
 
 # 🧊 Use To Code & Design
 
-`JavaScript`, `TypeScript`, `Rust`, `WebAssembly`, `React`, `Vue2`, `Vue3`, `JQuery`, `HTML5`, `CSS3`, `Less`, `DynamicSVG`, `Git`, `Bootstrap`, `AntDesign`,  `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Photoshop`, `Illustrator`, `Premiere`
+`JavaScript`, `TypeScript`, `Rust`, `WebAssembly`, `React`, `Vue2`, `Vue3`, `JQuery`, `HTML5`, `CSS3`, `Less`, `DynamicSVG`, `Git`, `ECharts`, `Bootstrap`, `AntDesign`,  `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Photoshop`, `Illustrator`, `Premiere`
 
 #### Plan to learn
 
