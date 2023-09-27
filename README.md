@@ -32,7 +32,7 @@ I developed a data visualization development framework-techui. Decoration compon
 
 ### Plan to learn
 
-`php`, `golang`, `threejs`, may be `java`
+`nodejs`, `php`, `golang`, `threejs`, may be `java`
 
 # 📑 Need A Remote Job
 
