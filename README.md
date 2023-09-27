@@ -11,15 +11,28 @@ I developed a data visualization development framework-techui. Decoration compon
 
 
 
-# 🧊 Use To Code & Design
+# 🧊 Development Stack
 
-`JavaScript`, `TypeScript`, `Rust`, `WebAssembly`, `React`, `Vue2`, `Vue3`, `JQuery`, `HTML5`, `CSS3`, `Less`, `DynamicSVG`, `Git`, `ECharts`, `Bootstrap`, `AntDesign`,  `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Photoshop`, `Illustrator`, `Premiere`
+### Programming language
 
-#### Plan to learn
+`JavaScript`, `TypeScript`, `Rust`, `Python`, `HTML5`, `CSS3`, `SQL`
+
+
+### Frontend
+
+`React`, `Vue2`, `Vue3`, `JQuery`, `Less`, `Sass`, `WebAssembly`,  `DynamicSVG`, `Git`, `ECharts`, `Bootstrap`, `AntDesign`, `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Webpack`
+
+### Backend
+
+`Mysql`, `postgreSQL`, `Fastapi`, 
+
+### Design & Media
+
+`Photoshop`, `Illustrator`, `Premiere` , `UI Design`, `UX Design`
+
+### Plan to learn
 
 `python`,`golang`, `threejs`, may be `java`
-
-
 
 # 📑 Need A Remote Job
 
