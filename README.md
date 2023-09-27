@@ -20,11 +20,11 @@ I developed a data visualization development framework-techui. Decoration compon
 
 ### Frontend
 
-`React`, `Vue2`, `Vue3`, `JQuery`, `Less`, `Sass`, `WebAssembly`,  `DynamicSVG`, `Git`, `ECharts`, `Bootstrap`, `AntDesign`, `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Webpack`
+`React`, `Vue2`, `Vue3`, `JQuery`, `Less`, `Sass`, `WebAssembly`,  `DynamicSVG`, `Git`, `ECharts`, `Bootstrap`, `AntDesign`, `ElementUI`, `Vant`, `UniApp`, `Git`, `VSCode`, `Webpack`, `Postman`
 
 ### Backend
 
-`Mysql`, `postgreSQL`, `Fastapi`, 
+`Mysql`, `postgreSQL`, `Fastapi`
 
 ### Design & Media
 
