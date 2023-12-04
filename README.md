@@ -24,7 +24,7 @@ I developed a data visualization development framework-techui. Decoration compon
 
 ### Backend
 
-`Mysql`, `postgreSQL`, `Fastapi`
+`Mysql`, `postgreSQL`, `Fastapi`, `Docker`
 
 ### Design & Media
 
